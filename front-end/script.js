@@ -1,5 +1,5 @@
-var serviceHost = "https://spotify.minhashemi.workers.dev";
-var spotifyUser = "Amin";
+var serviceHost = "https://spotify.henryvaun.workers.dev/";
+var spotifyUser = "Dj Spotify";
 
 var songData;
 

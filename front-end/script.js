@@ -1,5 +1,5 @@
 var serviceHost = "https://spotify.henryvaun.workers.dev/";
-var spotifyUser = "Dj Spotify";
+var spotifyUser = "31lswthw54fdt5ycy6bq2mcczn5y";
 
 var songData;
 
